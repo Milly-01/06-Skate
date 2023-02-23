@@ -1,0 +1,124 @@
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    text-align: center;
+}
+
+
+.jumbotron{
+    background: none;
+   
+}
+
+.sectionLightGray{
+    background-color: #eceeef;
+    padding: 2rem;
+}
+
+.d-block.w-100{
+    height: 250px;
+}
+
+.sizeit{
+    height: 150px;
+    width: 83.3px;
+}
+
+.sectionDarkGray{
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.coolStuffwrapper{
+    margin: 2rem;
+}
+
+button.coolStuffBtn{
+    display: block;
+    margin: auto;
+    font-weight: 600;
+    background: red;
+    color: #ffffff;
+}
+
+p{
+    font-size: 12px;
+}
+
+.modalFormWrapper{
+    margin: 2rem;
+}
+
+.wrapperNew{ 
+    margin: 5rem 5rem 1rem 5rem;
+}
+
+.wrapperNew2{
+    margin: 0 5rem 1rem 5rem;
+}
+
+button.coolStuff{
+    display: block;
+    margin: auto;
+    font-weight: 600;
+    background: red;
+    color: #ffffff;
+    width: 100%;
+}
+
+.sectionImages{
+    background-color: #eceeef;
+    padding: 2rem;
+}
+
+.display-4{
+    font-weight: 700;
+}
+
+.lead{
+    font-weight: 500;
+}
+
+.iframe-style{
+    width: 100%;
+    height: 300px;
+}
+
+.paddy{
+    padding: 2rem;
+}
+
+.fa-square-facebook{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    
+    color: #3b5998;
+}
+
+.fa-instagram{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: red;  
+}
+
+.fa-twitter{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: #3b5998;;
+}
+
+.social-wrapper{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
